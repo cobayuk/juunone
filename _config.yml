@@ -3,7 +3,7 @@ title: Juunone | for dev blog
 email: juunone@gmail.com
 description: juunone's dev blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://juunone.github.io" # the base hostname & protocol for your site
+url: "https://cobayuk.github.io/juunone/" # the base hostname & protocol for your site
 google_analytics: "UA-131472455-1"
 
 # User Settings
